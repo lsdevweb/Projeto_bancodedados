@@ -29,7 +29,15 @@ Definição técnica das tabelas, tipos de dados e chaves:
 O script de criação das tabelas e restrições pode ser encontrado no arquivo: `pratica_DB.sql`.
 
 ---
+## 📂 Arquivos e Documentação
 
+Para facilitar a navegação, você pode acessar os arquivos originais nos links abaixo:
+
+* 🖼️ **[Pasta de Imagens](./img/)**: Contém o diagrama conceitual e os prints de execução.
+* 📄 **[Documentação Completa (PDF)](./pratica_bancodedados.pdf)**: Relatório detalhado das etapas do projeto.
+* 💻 **[Script SQL](./exercicio_agencia.sql)**: Código para criação e povoamento do banco de dados.
+
+---
 ## 🚀 Como Executar o Projeto
 
 1. Certifique-se de ter o **MySQL** instalado no seu ambiente (desenvolvido em Linux Mint).
